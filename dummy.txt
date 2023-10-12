@@ -2,3 +2,8 @@ A Remote Repository is
 common repository/storage
 that all team members use to
 exchange their changes.
+
+The Remote Repository is
+generally a code hosting
+service like GitHub or on an
+internal server.
