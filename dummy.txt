@@ -1,0 +1,4 @@
+A Remote Repository is
+common repository/storage
+that all team members use to
+exchange their changes.
